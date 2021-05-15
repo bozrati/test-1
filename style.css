@@ -1,0 +1,167 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background: #BE90D4;
+}
+
+.a1{
+    background: url(images/image2.jpg)rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken;
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 480px;
+    border-radius: 5px;
+    border: 1px black solid;
+    box-shadow: 4px 4px 5px black;
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+
+}
+.a2{
+    background: black;
+    display: flex;
+    position: absolute;
+    width: 300px;
+    height: 480px;
+    top: 50%;
+    left:62% ;
+    transform: translate(-50%,-50%);
+    border-radius: 5px;
+    border: 1px black solid;
+    box-shadow: 4px 4px 5px black;
+}
+.a3{
+    color: white;
+    display: flex;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'KoHo', sans-serif;
+}
+.a4{
+    display: flex;
+    position: absolute;
+    top: 28%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'KoHo', sans-serif;
+    width: 200px;
+    height: 30px;
+    background: black;
+    color: white;
+    border-radius: 5px;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    font-family:  'Balsamiq Sans', cursive;;
+    font-size: 15px;
+
+}
+.a5{
+    display: flex;
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'KoHo', sans-serif;
+    width: 200px;
+    height: 30px;
+    background: black;
+    color: white;
+    border-radius: 5px;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    font-family:  'Balsamiq Sans', cursive;;
+    font-size: 15px;
+}
+.social-icons>ul{
+    background-color: white;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    top: 38%;
+    left: 75%;
+    transform: translate(-50%,-50%);
+}
+.a6{
+    display: flex;
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'KoHo', sans-serif;
+    width: 200px;
+    height: 30px;
+    background: black;
+    color: white;
+    border-radius: 5px;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    font-family:  'Balsamiq Sans', cursive;;
+    font-size: 15px;
+}
+
+
+.a7{
+    display: flex;
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'KoHo', sans-serif;
+    width: 200px;
+    height: 30px;
+    background: black;
+    color: white;
+    border-radius: 5px;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    font-family:  'Balsamiq Sans', cursive;;
+    font-size: 15px;
+}
+.a8{
+    display: flex;
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'KoHo', sans-serif;
+    width: 200px;
+    height: 30px;
+    background: black;
+    color: white;
+    border-radius: 5px;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    font-family:  'Balsamiq Sans', cursive;;
+    font-size: 15px;
+}
+button{
+    cursor: pointer;
+    padding: 10px;
+    border: 5px;
+    border-radius: 15px;
+    background: green;
+    color: white;
+    
+    display: flex;
+    position: absolute;
+    top: 83%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    text-align: center;
+}
